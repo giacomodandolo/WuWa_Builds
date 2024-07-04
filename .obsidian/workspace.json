@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Weapons/Broadblades.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Weapons/Broadblades.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Weapons/Broadblades.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Weapons/Broadblades.md"
+                "file": "README.md"
               }
             }
           }
@@ -146,8 +146,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "301765ab410af0fb",
+  "active": "cd6e3f2e7cfea4b2",
   "lastOpenFiles": [
+    "Weapons/Broadblades.md",
+    "README.md",
     "All builds (Twitter).md",
     "Sonata/Celestial Light.md",
     "Echoes/1-Cost/Aero Predator.md",
@@ -157,7 +159,6 @@
     "Cost/4-Cost.md",
     "Sonata/Rejuvenating Glow.md",
     "Echoes/3-Cost/Autopuppet Scout.md",
-    "Weapons/Broadblades.md",
     "Weapons/Swords.md",
     "Weapons/Rectifiers.md",
     "Weapons/Pistols.md",
@@ -174,7 +175,6 @@
     "Echoes/1-Cost/Whiff Whaff.md",
     "Echoes/1-Cost/Young Geohide Saurian.md",
     "Echoes/1-Cost/Traffic Illuminator.md",
-    "Echoes/1-Cost/Spectro Prism.md",
     "Echoes/1-Cost",
     "Echoes/3-Cost",
     "Echoes/4-Cost",
