@@ -1,5 +1,4 @@
-#cost
-# Main stats at rarity 5
+#echoes
 
 |   **ATTRIBUTE**   | **+0 STAT** | **+25 STAT** |
 | :---------------: | :---------: | :----------: |
@@ -14,8 +13,6 @@
 | Spectro DMG Bonus |    6.0%     |    30.0%     |
 |   Energy Regen    |    6.4%     |    32.0%     |
 |  ATK (2nd Line)   |     20      |     100      |
-# List of Echoes
-
 ```dataview
 table sonata as "Possible Sonata Effects"
 where contains(file.tags, "#3cost")

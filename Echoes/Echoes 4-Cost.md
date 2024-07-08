@@ -1,5 +1,4 @@
-#cost
-# Main stats at rarity 5
+#echoes
 
 | **ATTRIBUTE**  | **+0 STAT** | **+25 STAT** |
 | :------------: | :---------: | :----------: |
@@ -10,8 +9,6 @@
 |   Crit. DMG    |    8.8%     |    44.0%     |
 | Healing Bonus  |    5.2%     |    26.4%     |
 | ATK (2nd Line) |     30      |     150      |
-# List of Echoes
-
 ```dataview
 table sonata as "Possible Sonata Effects"
 where contains(file.tags, "#4cost")

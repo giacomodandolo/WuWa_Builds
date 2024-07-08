@@ -4,18 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "3f3bffbd354d5a74",
+        "id": "916644c832b43101",
         "type": "tabs",
         "children": [
           {
-            "id": "cd6e3f2e7cfea4b2",
+            "id": "b24e36aa1923d161",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Characters/Aalto.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Characters/Aalto.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Characters/Aalto.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Characters/Aalto.md"
               }
             }
           }
@@ -146,42 +146,45 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cd6e3f2e7cfea4b2",
+  "active": "b24e36aa1923d161",
   "lastOpenFiles": [
+    "Templates/Character_X.md",
+    "Weapons/Gauntlets/Abyss Surges.md",
     "Weapons/Broadblades.md",
-    "README.md",
-    "All builds (Twitter).md",
-    "Sonata/Celestial Light.md",
-    "Echoes/1-Cost/Aero Predator.md",
+    "Characters/Jinhsi.md",
+    "HOME.md",
+    "Characters/Verina.md",
+    "Characters/Yinlin.md",
+    "Characters/Yuanwu.md",
+    "Characters/Rover (Spectro).md",
+    "Characters/Mortefi.md",
+    "Characters/Yangyang.md",
+    "Characters/Jianxin.md",
+    "Characters/Sanhua.md",
+    "Characters/Taoqi.md",
+    "Characters/Danjin.md",
+    "Characters/Chixia.md",
+    "Characters/Aalto.md",
+    "Characters/Rover (Havoc).md",
+    "Characters/Lingyang.md",
+    "Characters/Jiyan.md",
+    "Characters/Encore.md",
+    "Characters/Calcharo.md",
     "Characters/Baizhi.md",
-    "Cost/1-Cost.md",
-    "Cost/3-Cost.md",
-    "Cost/4-Cost.md",
-    "Sonata/Rejuvenating Glow.md",
-    "Echoes/3-Cost/Autopuppet Scout.md",
-    "Weapons/Swords.md",
-    "Weapons/Rectifiers.md",
-    "Weapons/Pistols.md",
-    "Weapons/Gauntlets.md",
-    "Weapons",
+    "Echoes/4-Cost/Jué.md",
+    "Echoes/Echoes 4-Cost.md",
     "Sonata/Freezing Frost.md",
-    "Sonata/Lingering Tunes.md",
-    "Echoes/1-Cost/Zig Zag.md",
-    "Echoes/1-Cost/Tick Tack.md",
-    "Echoes/1-Cost/Untitled - Copia (28).md",
-    "Echoes/1-Cost/Untitled - Copia (32).md",
-    "Echoes/1-Cost/Young Roseshroom.md",
-    "Echoes/1-Cost/Vanguard Junrock.md",
-    "Echoes/1-Cost/Whiff Whaff.md",
-    "Echoes/1-Cost/Young Geohide Saurian.md",
-    "Echoes/1-Cost/Traffic Illuminator.md",
+    "show.png",
+    "Weapons/Rectifiers",
+    "Weapons/Pistols",
+    "Weapons/Gauntlets",
+    "Weapons/Broadblades",
+    "Weapons/Swords",
+    "Templates",
+    "Weapons",
     "Echoes/1-Cost",
     "Echoes/3-Cost",
     "Echoes/4-Cost",
-    "Echoes",
-    "Characters",
-    "Untitled.canvas",
-    "Cost",
-    "Sonata"
+    "Untitled.canvas"
   ]
 }

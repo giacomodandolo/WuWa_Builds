@@ -1,0 +1,22 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "base_second_stat": "number",
+    "base_atk": "number",
+    "weapon_rarity": "number",
+    "character_rarity": "number",
+    "HP": "number",
+    "atk": "number",
+    "def": "number",
+    "max_energy": "number",
+    "craftable": "text",
+    "max_second_stat": "number",
+    "max_atk": "number",
+    "alt_weapon": "multitext",
+    "energy_regen": "number",
+    "crit_rate": "number",
+    "crit_dmg": "number"
+  }
+}
